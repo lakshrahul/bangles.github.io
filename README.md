@@ -4,7 +4,7 @@
   <meta charset="UTF-8">  
   <meta name="viewport" content="width=device-width, initial-scale=1.0">  
   <title>Banglesai - Your One-Stop Bangle Destination</title>  
-  <link rel="stylesheet" href="styles.css">  
+  <link rel="stylesheet" href="https://github.com/lakshrahul/bangles.github.io/blob/main/style.css">  
 </head>  
 <body>  
   <header>  
